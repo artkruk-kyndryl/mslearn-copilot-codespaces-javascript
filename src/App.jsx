@@ -28,7 +28,7 @@ const siteProps = {
   title: "Enterprise Solutions Architect",
   email: ".com",
   gitHub: "Kyndryl",
- // instagram: " ",
+  // instagram: " ",
   linkedIn: "artkruk",
   medium: "",
   twitter: " ",
